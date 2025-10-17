@@ -10,3 +10,12 @@
   #### Para concerme a mi o conocer mi trabajo, no dudes en contactarme. Estoy a tus órdenes.
 [LinkedIn](https://www.linkedin.com/in/marco-antonio-cabrera-velez/)
   
+### SKILLS:
+
+
+![Pyton](https://img.shields.io/badge/Python-8A2BE2)</br>
+![SQL](https://img.shields.io/badge/SQL-0ef4ff)</br>
+![BI](https://img.shields.io/badge/BI-0011f3)</br>
+![Pandas](https://img.shields.io/badge/Pandas-56de00)</br>
+![Matlibplot](https://img.shields.io/badge/Matlibplot-a8008b)</br>
+![Machine_learning](https://img.shields.io/badge/Machine_learning-ff1917)</br>
