@@ -8,7 +8,9 @@
 
 
   #### Para concerme a mi o conocer mi trabajo, no dudes en contactarme. Estoy a tus órdenes.
+![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0011f3)</br>
 [LinkedIn](https://www.linkedin.com/in/marco-antonio-cabrera-velez/)
+
   
 ### SKILLS:
 
